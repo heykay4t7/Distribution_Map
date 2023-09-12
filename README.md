@@ -1,4 +1,4 @@
-# Distribution_Map : :  To view Web Map Click Link here:
+# Distribution_Map : :  To view Web Map Click Link here: https://heykay4t7.github.io/Distribution_Map-of-Controls/
 Distribution of Cotrols Categories within FCT,Abuja, Nigeria
 ## Introduction
 This WEB MAP displays distribution of Controls within the Fderala Capital Territory, Abuja.
